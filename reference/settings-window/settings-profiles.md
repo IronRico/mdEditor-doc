@@ -1,4 +1,4 @@
-﻿**Settings**
+**Settings**
 ---
 
 ## Alaska Region mdEditor Profiles
@@ -35,71 +35,117 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 **Note**: if you are using GitHub to host profile definition files, make sure that you provide users with the URL to the "raw" version of the file.
 {% endhint %} 
 
-###### Steps to Add a Profile Definition (Screenshots to be added)
+###### Steps to Add a Profile Definition 
 
 1. Go to Settings/Profiles/Manage Definitions.
 
+![Adding Profile Definition Step 1](/assets/reference/settings/profileImages/ProfileDefStep1.png)
+
 2. Select "Add Definition".
+
+![Adding Profile Definition Step 2](/assets/reference/settings/profileImages/ProfileDefStep2.png)
 
 3. Select "Imported" tab.
 
+![Adding Profile Definition Step 3](/assets/reference/settings/profileImages/ProfileDefStep3.png)
+
 4. Enter URL to profile definition.
+
+![Adding Profile Definition Step 4](/assets/reference/settings/profileImages/ProfileDefStep4.png)
 
 5. Enter an optional alias (the alias replaces the definition title).
 
+![Adding Profile Definition Step 5](/assets/reference/settings/profileImages/ProfileDefStep5.png)
+
 6. Select "Save definition". You should receive a notification that the profile has been downloaded and profile information will be displayed on the tab.
 
+![Adding Profile Definition Step 6](/assets/reference/settings/profileImages/ProfileDefStep6.png)
 
-###### Steps to Add Validation Schema (Screenshots to be added)
+
+###### Steps to Add Validation Schema 
 
 1. Go to Settings/Profiles/Validation.
 
+![Add A Validation Schema Step 1](/assets/reference/settings/profileImages/AddValidation1.png)
+
 2. Select "Add Schema".
+
+![Add A Validation Schema Step 2](/assets/reference/settings/profileImages/AddValidation2.png)
 
 3. Enter URL to the schema root.
 
+![Add A Validation Schema Step 3](/assets/reference/settings/profileImages/AddValidation3.png)
+
 4. Enter a Title and Description.
+
+![Add A Validation Schema Step 4](/assets/reference/settings/profileImages/AddValidation4.png)
 
 5. Select the record "Type" to which the schema applies.
 
+![Add A Validation Schema Step 5](/assets/reference/settings/profileImages/AddValidation5.png)
+
 6. Select "Save Schema". You should receive a notification that the profile has been downloaded.
 
+![Add A Validation Schema Step 6](/assets/reference/settings/profileImages/AddValidation6.png)
 
 
-###### Steps to Add A Profile for Use by mdEditor (Screenshots to be added)
+
+###### Steps to Add A Profile for Use by mdEditor 
 
 1. Go to Settings/Profiles.
 
+![Add A New Profile Step 1](/assets/reference/settings/profileImages/AddProfileStep1.png)
+
 2. Select "Add Profile".
+
+![Add A New Profile Step 2](/assets/reference/settings/profileImages/AddProfileStep2.png)
 
 3. Enter a "Title" (displayed in profile selection field). 
 
     * Select a "Profile Definition" from the drop-down list (either the definition title or the alias entered in the previous step will be displayed). 
     
     * Add optional description (displayed when cursor hovers over "?" in the profile selection field).
+    
+    ![Add A New Profile Step 3](/assets/reference/settings/profileImages/AddProfileStep3.png)
  
 4. Identify a schema from the "Selected Schema" list and select "Add" (NOTE: Skip this step for testing. You will see a "No schemas have been assigned" warning, just ignore that for now!).
 
+![Add A New Profile Step 4](/assets/reference/settings/profileImages/AddProfileStep4.png)
+
 5. Select "Save Profile".
+
+![Add A New Profile Step 5](/assets/reference/settings/profileImages/AddProfileStep5.png)
 
 
 {% hint style='tip' %}
 **Note**: Changes made to a existing profile may not be reflected until the editor is reloaded.
 {% endhint %} 
 
-###### Steps for Updating a Profile (Screenshots to be added)
+###### Steps for Updating a Profile 
 
 1. Go to Settings/Profiles/Manage Definitions
 
+![Updating A Profile Step 1](/assets/reference/settings/profileImages/UpdatingAProfile1.png)
+
 2. Select "Check for Updates"
+
+![Updating A Profile Step 2](/assets/reference/settings/profileImages/UpdatingAProfile2.png)
 
 3. A blue information icon next to a profile definition indicates that an update is available.
 
+![Updating A Profile Step 3](/assets/reference/settings/profileImages/UpdatingAProfile3.png)
+
 4. Select the definition "Edit" button. (The currently installed version will be displayed along with the updated version in a blue box)
+
+![Updating A Profile Step 4](/assets/reference/settings/profileImages/UpdatingAProfile4.png)
 
 5. Select "Update Definition" button to proceed with update.
 
+![Updating A Profile Step 5](/assets/reference/settings/profileImages/UpdatingAProfile5.png)
+
 6. Refresh browser to activate updated profile.
+
+![Updating A Profile Step 6](/assets/reference/settings/profileImages/UpdatingAProfile6.png)
 
 ---
 
