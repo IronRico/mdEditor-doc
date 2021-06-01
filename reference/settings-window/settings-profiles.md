@@ -37,7 +37,7 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 
 ###### Steps to Add a Profile Definition 
 
-1. Go to Settings/Profiles/Manage Definitions.
+1. From the Profiles tab, Select Manage Definitions.
 
 ![Adding Profile Definition Step 1](/assets/reference/settings/profileImages/ProfileDefStep1.png)
 
