@@ -105,16 +105,14 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
     * Select a "Profile Definition" from the drop-down list (either the definition title or the alias entered in the previous step will be displayed). 
     
     * Add optional description (displayed when cursor hovers over "?" in the profile selection field).
-    
-    ![Add A New Profile Step 3](/assets/reference/settings/profileImages/AddProfileStep3.png)
+        
  
 4. Identify a schema from the "Selected Schema" list and select "Add" (NOTE: Skip this step for testing. You will see a "No schemas have been assigned" warning, just ignore that for now!).
 
-![Add A New Profile Step 4](/assets/reference/settings/profileImages/AddProfileStep4.png)
 
 5. Select "Save Profile".
 
-![Add A New Profile Step 5](/assets/reference/settings/profileImages/AddProfileStep5.png)
+![Add A New Profile Step 3-5](/assets/reference/settings/profileImages/AddProfileStep3-5.png)
 
 
 {% hint style='tip' %}
