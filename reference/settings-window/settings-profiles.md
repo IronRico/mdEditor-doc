@@ -64,7 +64,7 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 
 ###### Steps to Add Validation Schema 
 
-1. Go to Settings/Profiles/Validation.
+1. From Settings/Profiles/ click on Validation.
 
 ![Add A Validation Schema Step 1](/assets/reference/settings/profileImages/AddValidation1.png)
 
@@ -88,7 +88,9 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 
 ![Add A Validation Schema Step 6](/assets/reference/settings/profileImages/AddValidation6.png)
 
+7. Verify the new schema appears in the list.
 
+![Add A Validation Schema Step 7](/assets/reference/settings/profileImages/AddValidation7.png)
 
 ###### Steps to Add A Profile for Use by mdEditor 
 
