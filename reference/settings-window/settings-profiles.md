@@ -114,6 +114,9 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 
 ![Add A New Profile Step 3-5](/assets/reference/settings/profileImages/AddProfileStep3-5.png)
 
+6. Check to see if the new profile appears in the profile list.
+
+![Add A New Profile Step 6](/assets/reference/settings/profileImages/AddProfileStep6.png)
 
 {% hint style='tip' %}
 **Note**: Changes made to a existing profile may not be reflected until the editor is reloaded.
