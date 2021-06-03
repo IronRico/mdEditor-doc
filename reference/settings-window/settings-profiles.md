@@ -74,19 +74,16 @@ Before a custom profile can be created for use in the mdEditor, the profile defi
 
 3. Enter URL to the schema root.
 
-![Add A Validation Schema Step 3](/assets/reference/settings/profileImages/AddValidation3.png)
 
 4. Enter a Title and Description.
 
-![Add A Validation Schema Step 4](/assets/reference/settings/profileImages/AddValidation4.png)
 
 5. Select the record "Type" to which the schema applies.
 
-![Add A Validation Schema Step 5](/assets/reference/settings/profileImages/AddValidation5.png)
 
 6. Select "Save Schema". You should receive a notification that the profile has been downloaded.
 
-![Add A Validation Schema Step 6](/assets/reference/settings/profileImages/AddValidation6.png)
+![Add A Validation Schema Steps 3-6](/assets/reference/settings/profileImages/AddValidation3-6.png)
 
 7. Verify the new schema appears in the list.
 
